@@ -21,7 +21,7 @@
 # Conclusiones
 
 1. Con la ayuda de Ionic, no es necesario tener que estar ejecutando la aplicación directamente en un celular, ya que con la ayuda del comando ionic serve, se pueden comprobar los cambios realizados, mostrando como se vería en el dispositivo.
-2. Para poder generar el APK de la aplicación es de gran ayuda la herramienta de Android Studio, ya que, al ligar el proyecto, la herramienta automáticamente realiza loa ajustes necesarios para generar un APK.
+2. Para poder generar el APK de la aplicación es de gran ayuda la herramienta de Android Studio, ya que, al ligar el proyecto, la herramienta automáticamente realiza los ajustes necesarios para generar un APK.
 
 ## Icono
 
