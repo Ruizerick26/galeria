@@ -30,7 +30,9 @@ CLIC PARA IR AL ENLACE DE DRIVE PARA DESCARGAR EL APK:
 2. Para poder generar el APK de la aplicación es de gran ayuda la herramienta de Android Studio, ya que, al ligar el proyecto, la herramienta automáticamente realiza los ajustes necesarios para generar un APK.
 3. El trabajo de elaborar las diferentes imagenes de Splash-screem puede ser reducido con diversas herramientas, en este proyecto se utiliza el paquete Capacitor-resource mismo que al porporcionarle la imagen de icono y splash nos facilitara el generar cada tamaño necesario.
 4. La aplicación desarrollada cumple con una funcionalidad suficiente además se agrego un apartado con información básica del equipo de trabajo.
-
+5. Dentro del desarrollo de la aplicación con el servicio PhotoService, todo lo relacionado con las fotos se pudo desarrolar de una manera eficiente, ya que gracias a Capacitor, capturar y guardar fotos fue sencillo.
+6. Cuando probamos nuestro servicio PhotoService con TestBed, estamos asegurándonos de que todo esté en orden, tomando en cuenta que la app funcione sin problemas para que todos los usuarios puedan tomar y vizualizar las fotos y si desea de la misma manera eliminarlas.
+   
 ## Icono
 
 ![alt text](image.png)
