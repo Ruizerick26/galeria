@@ -1,0 +1,17 @@
+.cuadro{
+    display: flex;
+    flex-direction: column;
+}
+
+.perfil{
+    width: 100%;
+    border: 2px solid rgb(33, 29, 29);
+}
+.imagen{
+    width: 125px;
+    height: 125px;
+    margin: 3px;
+}
+.datos{
+    margin: 4px;
+}
